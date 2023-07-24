@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1665074629 source:e:\codeblocks\session\main.c
+	<stdio.h>
+	<stdlib.h>
+	"struct.h"
+	<string.h>
+	"linkedlists.h"
+
+1604536258 source:e:\codeblocks\session\string.c
+	<stdio.h>
+
+1665074582 source:e:\codeblocks\session\array.c
+
+1604746360 source:e:\codeblocks\session\module.c
+
+1628378294 source:e:\codeblocks\session\searching tecnique.c
+
+1606832536 source:e:\codeblocks\session\session19 how to sort strings.c
+
+1606886365 source:e:\codeblocks\session\2d array session 20.c
+
+1607946105 source:e:\codeblocks\session\recursion session22.c
+
+1608483656 e:\codeblocks\session\struct.h
+
+1609011413 source:e:\codeblocks\session\struct.c
+	"struct.h"
+	<stdio.h>
+
+1609013206 source:e:\codeblocks\session\linkedlists.c
+	"linkedlists.h"
+
+1609011299 e:\codeblocks\session\linkedlists.h
+
+1609011389 source:e:\codeblocks\session\stack.c
+
+1614250892 source:e:\codeblocks\session\queue.c
+	"queue.h"
+
+1612902933 e:\codeblocks\session\queue.h
+

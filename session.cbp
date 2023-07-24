@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="session" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/session" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/session" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="2D Array session 20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedlists.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linkedlists.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="module.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.h" />
+		<Unit filename="recursion session22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="searching tecnique.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="session19 how to sort strings.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="stack.h" />
+		<Unit filename="string.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="struct.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
